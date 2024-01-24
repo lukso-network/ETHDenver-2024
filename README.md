@@ -1,8 +1,8 @@
 # 🦬🦄🏔️ LUKSO @ ETHDenver 2024 #BUIDLathon
 
-Welcome to ETHDenver 2024 LUKSO bounties page!
+Hello hackers and welcome to ETHDenver 2024 [#BUIDLathon](https://www.ethdenver.com/buidlathon) LUKSO bounties page! 🛠️💻🛠️
 
-## Bounties
+## 💰 Bounties
 
 - [Build DAO Infrastructure using Universal Profiles](./Bounty1.md)
 - [Build a dApp Using Universal Profiles](./Bounty2.md)
