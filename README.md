@@ -1,4 +1,4 @@
-# LUKSO @ ETHDenver 2024
+# 🦬🦄🏔️ LUKSO @ ETHDenver 2024 #BUIDLathon
 
 Welcome to ETHDenver 2024 LUKSO bounties page!
 
