@@ -10,3 +10,7 @@ On this page you will find resources for each of our four bounties.
 - $12.5K [Build a dApp Using Universal Profiles](./Bounty2.md)
 - $12.5K [Build a Transaction Relay Service](./Bounty3.md)
 - $12.5K [Universal Profile Management Tools](./Bounty4.md)
+
+## 🤝 Getting Help
+
+If you have any questions and you would like support with your project, please join our [Discord](https://discord.gg/prmFyp7M) and drop your question in the `hacker-discussion` channel, under [HACKATHON].
