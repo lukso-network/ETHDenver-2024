@@ -2,7 +2,9 @@
 
 Hello hackers and welcome to ETHDenver 2024 [#BUIDLathon](https://www.ethdenver.com/buidlathon) LUKSO bounties page! 🛠️💻🛠️
 
-On this page you will find resources for each of our four bounties.
+<h3 align="center">
+    <a href="https://docs.lukso.tech/">👉 LUKSO Technical Docs 👈</a>
+</h3>
 
 ## 💰 Bounties
 
