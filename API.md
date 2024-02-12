@@ -5,7 +5,7 @@ We provide a few API keys and endpoints for you to quickly onboard the LUKSO eco
 ## [Algolia](https://www.algolia.com/)
 
 <p align="center">
-<img src="./assets/algolia_example.png" height="400px" alt="example of Algolia search"/>
+<img src="./assets/algolia_example.png" height="600px" alt="example of Algolia search"/>
 </p>
 
 Our backend system indexes profiles and assets and sends the data to Algolia.
