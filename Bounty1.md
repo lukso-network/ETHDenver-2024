@@ -9,6 +9,10 @@ This bounty rewards developers who create the most innovative DAO infrastructure
 - 🥉 3rd Place 1,500 USDC
 - 4th place 1,000 USDC
 
+## Getting started
+
+todo
+
 ## Resources
 
 - 📂 [LUKSO Technical Documentation](https://docs.lukso.tech/)

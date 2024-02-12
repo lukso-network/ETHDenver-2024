@@ -1,4 +1,4 @@
-# Build a dApp Using Universal Profiles
+# 🆙 Build a dApp Using Universal Profiles
 
 This bounty rewards developers who create the most innovative and user-friendly dApps that leverage the capabilities of Universal Profiles and LUKSO Standard Proposals (LSPs).
 
@@ -17,8 +17,9 @@ To get started we recommend you to:
 
 1. Download the extension and create a Universal Profile 👉 <https://my.universalprofile.cloud/>.
 2. Check the [dApp Developer Getting started guide](https://docs.lukso.tech/learn/dapp-developer/getting-started).
-3. Fork the [LUKSO Next.js dApp Boilerplate](https://github.com/lukso-network/tools-dapp-boilerplate) and starting building.
+3. Fork the [LUKSO Next.js dApp Boilerplate](https://github.com/lukso-network/tools-dapp-boilerplate) and start building.
 4. Check the [LUKSO Playground](https://github.com/lukso-network/lukso-playground) repository.
+5. Get familiar with the [LUKSO tools](https://docs.lukso.tech/tools/getting-started), especially [erc725.js](https://docs.lukso.tech/tools/erc725js/getting-started).
 
 Good luck and happy hacking 🧙
 

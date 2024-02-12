@@ -25,9 +25,10 @@ To get started we recommend you to:
 
 1. Download the extension and create a Universal Profile 👉 <https://my.universalprofile.cloud/>.
 2. Check the [Getting started](https://docs.lukso.tech/learn/dapp-developer/getting-started) guide.
-3. Fork the [LUKSO Next.js dApp Boilerplate](https://github.com/lukso-network/tools-dapp-boilerplate) and starting building.
+3. Fork the [LUKSO Next.js dApp Boilerplate](https://github.com/lukso-network/tools-dapp-boilerplate) and start building.
 4. Play with the [ERC725 Inspect tool](https://erc725-inspect.lukso.tech/) and check [its Next.js codebase](https://github.com/lukso-network/tools-erc725-inspect).
 5. Check the [LUKSO Playground](https://github.com/lukso-network/lukso-playground) repository.
+6. Get familiar with the [LUKSO tools](https://docs.lukso.tech/tools/getting-started), especially [erc725.js](https://docs.lukso.tech/tools/erc725js/getting-started).
 
 Good luck and happy hacking 🧙
 
