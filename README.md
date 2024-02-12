@@ -13,6 +13,10 @@ Hello hackers and welcome to ETHDenver 2024 [#BUIDLathon](https://www.ethdenver.
 - $12.5K [Build a Transaction Relay Service](./Bounty3.md)
 - $12.5K [Universal Profile Management Tools](./Bounty4.md)
 
+## API Access
+
+**🎁 We also provide a few super handy [API endpoints and keys](./API.md) for hackathons pariticipants.**
+
 ## 🤝 Getting Help
 
 If you have any questions and you would like support with your project, please join our [Discord](https://discord.gg/prmFyp7M) and drop your question in the `hacker-discussion` channel, under [HACKATHON].

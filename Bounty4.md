@@ -30,6 +30,8 @@ To get started we recommend you to:
 5. Check the [LUKSO Playground](https://github.com/lukso-network/lukso-playground) repository.
 6. Get familiar with the [LUKSO tools](https://docs.lukso.tech/tools/getting-started), especially [erc725.js](https://docs.lukso.tech/tools/erc725js/getting-started).
 
+**🎁 We also provide a few super handy [API endpoints and keys](./API.md) for hackathons pariticipants.**
+
 Good luck and happy hacking 🧙
 
 ## Ecosystem examples

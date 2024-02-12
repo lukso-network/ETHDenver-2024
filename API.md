@@ -2,7 +2,7 @@
 
 We provide a few API keys and endpoints for you to quickly onboard the LUKSO ecosystem.
 
-## Algolia
+## [Algolia](https://www.algolia.com/)
 
 Our backend system indexes profiles and assets and sends the data to Algolia.
 
