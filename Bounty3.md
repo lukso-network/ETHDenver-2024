@@ -21,9 +21,9 @@ To get started we recommend you to:
 
 1. Download the extension and create a Universal Profile 👉 <https://my.universalprofile.cloud/>.
 2. Interact with LUKSO dApps such as:
-   - [LUKSO Universal Profile management dApp](https://my.universalprofile.cloud/)
-   - [LUKSO Wallet](https://wallet.universalprofile.cloud/) ([Nuxt.js codebase](https://github.com/lukso-network/wallet.universalprofile.cloud)) - a wallet application that allows users to see the Tokens (LSP7) and NFTs (LSP8) associated to a specific LUKSO's Universal Profile address
-   - [Universal Page](https://universal.page/) - a marketplace for assets on LUKSO and profile management dApp
+   - [LUKSO Universal Profile management dApp](https://my.universalprofile.cloud/).
+   - [LUKSO Wallet](https://wallet.universalprofile.cloud/) ([Nuxt.js codebase](https://github.com/lukso-network/wallet.universalprofile.cloud)) - a wallet application that allows users to see the Tokens (LSP7) and NFTs (LSP8) associated to a specific LUKSO's Universal Profile address.
+   - [Universal Page](https://universal.page/) - a marketplace for assets on LUKSO and profile management dApp.
 3. Look at the [Relayer API](https://docs.lukso.tech/standards/relayer-api) endpoints.
 4. Check the [Mock Transaction Relayer](https://github.com/lukso-network/tools-mock-relayer) code repository.
 
