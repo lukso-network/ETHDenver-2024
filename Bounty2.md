@@ -16,9 +16,9 @@ Building dApps on LUKSO is easy because it is the same as building dApps for any
 To get started we recommend you to:
 
 1. Download the extension and create a Universal Profile 👉 <https://my.universalprofile.cloud/>.
-2. Check the [Getting started](https://docs.lukso.tech/learn/dapp-developer/getting-started) guide.
+2. Check the [dApp Developer Getting started guide](https://docs.lukso.tech/learn/dapp-developer/getting-started).
 3. Fork the [LUKSO Next.js dApp Boilerplate](https://github.com/lukso-network/tools-dapp-boilerplate) and starting building.
-4. Chekc the playground scripts.
+4. Check the [LUKSO Playground](https://github.com/lukso-network/lukso-playground) repository.
 
 Good luck and happy hacking 🧙
 

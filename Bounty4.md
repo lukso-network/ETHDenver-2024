@@ -26,11 +26,14 @@ To get started we recommend you to:
 1. Download the extension and create a Universal Profile 👉 <https://my.universalprofile.cloud/>.
 2. Check the [Getting started](https://docs.lukso.tech/learn/dapp-developer/getting-started) guide.
 3. Fork the [LUKSO Next.js dApp Boilerplate](https://github.com/lukso-network/tools-dapp-boilerplate) and starting building.
+4. Play with the [ERC725 Inspect tool](https://erc725-inspect.lukso.tech/) and check [its Next.js codebase](https://github.com/lukso-network/tools-erc725-inspect).
+5. Check the [LUKSO Playground](https://github.com/lukso-network/lukso-playground) repository.
 
 Good luck and happy hacking 🧙
 
 ## Ecosystem examples
 
+- [LUKSO Wallet](https://wallet.universalprofile.cloud/) - [Nuxt.js codebase](https://github.com/lukso-network/wallet.universalprofile.cloud)
 - [Defolio](https://app.buidlbox.io/projects/defolio) - Universal Profile management tool
 - [ERC725 Inspector](https://erc725-inspect.lukso.tech/inspector) - a tool for retrieving and decoding all [ERC725Y Data Keys](https://docs.lukso.tech/standards/universal-profile/lsp3-profile-metadata/#erc725y-data-keys) of a smart contract using the [LSP2 - ERC725Y JSON Schema](https://docs.lukso.tech/standards/generic-standards/lsp2-json-schema/) specification.
 
@@ -38,8 +41,6 @@ Good luck and happy hacking 🧙
 
 - 📂 [LUKSO Technical Documentation](https://docs.lukso.tech/)
 - [Tips and tricks for (Web3?) hackathons](https://hugomasclet.com/tips-tricks-web3-hackathons)
-- 🔐 [LSP6 - Key Manager](https://docs.lukso.tech/standards/universal-profile/lsp6-key-manager/)
-- ⛓️ Discover the LUKSO Testnet [Network Parameters](https://docs.lukso.tech/networks/testnet/parameters) such as ChainID, RPC URL, Block Explorer, Faucet, etc.
-- 🛠️ Discover the LUSKO [Tools](https://docs.lukso.tech/tools/getting-started) such as ERC725Tools, erc725.js, etc.
-- 📝 [LSP Smart Contracts Repository](https://www.youtube.com/watch?v=E8Ih5n7auKY&ab_channel=LUKSOBlockchain) overview
+- ⛓️ LUKSO Network parameters [mainnet](https://docs.lukso.tech/networks/testnet/parameters) / [testnet](https://docs.lukso.tech/networks/testnet/parameters)
+- 🛠️ LUSKO [Tools](https://docs.lukso.tech/tools/getting-started) such as ERC725Tools, erc725.js, etc.
 - 🎥 [Previous Hackathon Video Resources](https://www.youtube.com/playlist?list=PLNzyUdu4v7bkwBuDV0gSJrrniPsx5bxK_) in video format
