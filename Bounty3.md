@@ -1,5 +1,7 @@
 # ⛽️ Build a Transaction Relay Service
 
+![relay screenshot](./assets/relay.png)
+
 This bounty seeks to reward the best project tackling Transaction Relay Services using innovative and self-sustainable business models.
 
 ## 💰 Prizes
