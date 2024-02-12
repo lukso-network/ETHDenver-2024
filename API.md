@@ -4,9 +4,13 @@ We provide a few API keys and endpoints for you to quickly onboard the LUKSO eco
 
 ## [Algolia](https://www.algolia.com/)
 
+<p align="center">
+<img src="./assets/algolia_example.png" height="400px" alt="example of Algolia search"/>
+</p>
+
 Our backend system indexes profiles and assets and sends the data to Algolia.
 
-You can use the following Algolia API key to build a quick search engine for Universal Profiles and/or assets. This is the technology that powers the search bar on <https://universalprofile.cloud/>
+You can use the following Algolia API key to build a quick search engine for Universal Profiles and/or assets (as seen on the screenshot above). This is the technology that powers the search bar on <https://universalprofile.cloud/>.
 
 ```
 APPLICATION_ID = YHFN1WRCR5

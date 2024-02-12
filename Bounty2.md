@@ -1,7 +1,7 @@
 # 🆙 Build a dApp Using Universal Profiles
 
 <p align="center">
-<img src="./assets/up_extension_login.png" height="300px" alt="screenshot of the login window of the extension">
+<img src="./assets/up_extension_login.png" height="400px" alt="screenshot of the login window of the extension">
 </p>
 
 This bounty rewards developers who create the most innovative and user-friendly dApps that leverage the capabilities of Universal Profiles and LUKSO Standard Proposals (LSPs).
