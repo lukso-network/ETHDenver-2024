@@ -11,26 +11,26 @@ Create projects that excel in key and permissions management and recovery addres
 - 🥇 1st Place 6,000 USDC
 - 🥈 2nd Place 4,000 USDC
 - 🥉 3rd Place 1,500 USDC
-- 4th place 1,000 USDC
+- 🎖️ 4th place 1,000 USDC
 
 ## Getting started
 
 Building dApps on LUKSO is easy because it is the same as building dApps for any EVM chains. The main difference is that LUKSO users use smart accounts (Universal Profiles) through our [UP Browser Extension](https://chrome.google.com/webstore/detail/universal-profiles/abpickdkkbnbcoepogfhkhennhfhehfn) to interact with your dApp: this unlocks a lot of great possibilities ✨
 
-Universal Profiles are powerful smart contract based accounts. They hold a lot of information about token, controllers, etc.
+Universal Profiles are powerful smart contract-based accounts. They hold a lot of information about digital assets such as tokens ([LSP7 - Digital Asset](https://docs.lukso.tech/standards/tokens/LSP7-Digital-Asset/)) and NFTs ([LSP8 - Identifiable Digital Asset](https://docs.lukso.tech/standards/tokens/LSP8-Identifiable-Digital-Asset)), controllers, etc.
 
-You can have a quick overview of these information on our [Inspector](https://erc725-inspect.lukso.tech/inspector?address=0x0F4180da178ed1C71398a57ca8Cb177F69591f1f&network=mainnet) page.
+You can have a quick overview of this information on our [Inspector](https://erc725-inspect.lukso.tech/inspector?address=0x0F4180da178ed1C71398a57ca8Cb177F69591f1f&network=mainnet) page.
 
 To get started we recommend you to:
 
 1. Download the extension and create a Universal Profile 👉 <https://my.universalprofile.cloud/>.
-2. Check the [Getting started](https://docs.lukso.tech/learn/dapp-developer/getting-started) guide.
+2. Check the [Getting Started](https://docs.lukso.tech/learn/dapp-developer/getting-started) guide.
 3. Fork the [LUKSO Next.js dApp Boilerplate](https://github.com/lukso-network/tools-dapp-boilerplate) and start building.
 4. Play with the [ERC725 Inspect tool](https://erc725-inspect.lukso.tech/) and check [its Next.js codebase](https://github.com/lukso-network/tools-erc725-inspect).
 5. Check the [LUKSO Playground](https://github.com/lukso-network/lukso-playground) repository.
 6. Get familiar with the [LUKSO tools](https://docs.lukso.tech/tools/getting-started), especially [erc725.js](https://docs.lukso.tech/tools/erc725js/getting-started).
 
-**🎁 We also provide a few super handy [API endpoints and keys](./API.md) for hackathons pariticipants.**
+**🎁 We also provide a few super handy [API endpoints and keys](./API.md) for hackathon participants.**
 
 Good luck and happy hacking 🧙
 

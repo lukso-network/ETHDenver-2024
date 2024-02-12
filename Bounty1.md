@@ -7,20 +7,20 @@ This bounty rewards developers who create the most innovative DAO infrastructure
 - 🥇 1st Place 6,000 USDC
 - 🥈 2nd Place 4,000 USDC
 - 🥉 3rd Place 1,500 USDC
-- 4th place 1,000 USDC
+- 🎖️ 4th place 1,000 USDC
 
 ## Getting started
 
 Building dApps on LUKSO is easy because it is the same as building dApps for any EVM chains. The main difference is that LUKSO users use smart accounts (Universal Profiles) through our [UP Browser Extension](https://chrome.google.com/webstore/detail/universal-profiles/abpickdkkbnbcoepogfhkhennhfhehfn) to interact with your dApp: this unlocks a lot of great possibilities ✨
 
-We believe having these real identities on chain provide a lot of value for creators but also for DAO, as participants can now have a real smart contract based account.
+We believe having these real identities on-chain provides a lot of value for creators but also for DAO, as participants can now have real smart contract-based accounts.
 
-We encourage you to explore the possibilites offered by our standards to create DAO Infrastructure using Universal Profiles. Be it dApp, or smart contract projects. Depending on what you are trying to build, you are invited to check the other bounties pages:
+We encourage you to explore the possibilities offered by our standards to create DAO Infrastructure using Universal Profiles. Be it dApp, or smart contract projects. Depending on what you are trying to build, you are invited to check the other bounties pages:
 
 - [Build a dApp Using Universal Profiles](./Bounty2.md#getting-started)
 - [Universal Profile Management Tools](./Bounty4.md#getting-started)
 
-**🎁 We also provide a few super handy [API endpoints and keys](./API.md) for hackathons pariticipants.**
+**🎁 We also provide a few super handy [API endpoints and keys](./API.md) for hackathons participants.**
 
 Good luck and happy hacking 🧙
 
