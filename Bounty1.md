@@ -1,6 +1,15 @@
 # Build DAO Infrastructure using Universal Profiles
 
-## Bounty Resources
+This bounty rewards developers who create the most innovative DAO infrastructure that leverages the capabilities of Universal Profiles and LUKSO Standard Proposals (LSPs).
+
+## 💰 Prizes
+
+- 🥇 1st Place gets 6,000 USDC
+- 🥈 2nd Place gets 4,000 USDC
+- 🥉 3rd Place gets 1,500 USDC
+- 4th place gets 1,000 USDC
+
+## Resources
 
 - 👉 Download the [UP Browser Extension](https://chrome.google.com/webstore/detail/universal-profiles/abpickdkkbnbcoepogfhkhennhfhehfn) from Chrome Store (currently compatible with Chrome and Brave browsers)
 - 📂 Check our [Documentation](https://docs.lukso.tech/) portal
