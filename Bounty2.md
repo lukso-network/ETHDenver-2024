@@ -1,6 +1,6 @@
 # 🆙 Build a dApp Using Universal Profiles
 
-<p style="text-align: center">
+<p align="center">
 <img src="./assets/up_extension_login.png" height="300px" alt="screenshot of the login window of the extension">
 </p>
 
