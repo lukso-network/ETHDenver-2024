@@ -19,7 +19,7 @@ Hello hackers and welcome to ETHDenver 2024 [#BUIDLathon](https://www.ethdenver.
 
 ## 🤝 Getting Help
 
-If you have any questions and would like support with your project, please join our [Discord](https://discord.gg/prmFyp7M) and drop your question in the `hacker-discussion` channel, under [HACKATHON].
+If you have any questions and would like support with your project, please join our [Discord](https://discord.gg/lukso) and drop your question in the `hacker-discussion` channel, under [HACKATHON].
 
 Say hi 👋 when you see them around and ask your questions directly to one of our Tech team members who are on-site during ETHDenver:
 
