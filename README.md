@@ -15,8 +15,17 @@ Hello hackers and welcome to ETHDenver 2024 [#BUIDLathon](https://www.ethdenver.
 
 ## API Access
 
-**🎁 We also provide a few super handy [API endpoints and keys](./API.md) for hackathons pariticipants.**
+**🎁 We also provide a few super handy [API endpoints and keys](./API.md) for the hackathon participants.**
 
 ## 🤝 Getting Help
 
-If you have any questions and you would like support with your project, please join our [Discord](https://discord.gg/prmFyp7M) and drop your question in the `hacker-discussion` channel, under [HACKATHON].
+If you have any questions and would like support with your project, please join our [Discord](https://discord.gg/lukso) and drop your question in the `hacker-discussion` channel, under [HACKATHON].
+
+Say hi 👋 when you see them around and ask your questions directly to one of our Tech team members who are on-site during ETHDenver:
+
+- Fabian Vogelsteller, Co-Founder & Chief Blockchain Architect, @feindura
+- Hugo Masclet, Tech Lead, @HugoApps
+- Andreas Richter, Principal Engineer, @richtera
+- Jean Cavallera, Lead Smart Contract Engineer, @JeanCavallera
+- Dominik Zborowski, Senior Frontend Developer, @dmonix3k5
+- Bianca Buzea, Head of Developer Relations, @buzea200

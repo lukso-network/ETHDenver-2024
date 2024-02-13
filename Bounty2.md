@@ -11,7 +11,7 @@ This bounty rewards developers who create the most innovative and user-friendly 
 - 🥇 1st Place 6,000 USDC
 - 🥈 2nd Place 4,000 USDC
 - 🥉 3rd Place 1,500 USDC
-- 4th place 1,000 USDC
+- 🎖️ 4th place 1,000 USDC
 
 ## Getting started
 
@@ -20,12 +20,12 @@ Building dApps on LUKSO is easy because it is the same as building dApps for any
 To get started we recommend you to:
 
 1. Download the extension and create a Universal Profile 👉 <https://my.universalprofile.cloud/>.
-2. Check the [dApp Developer Getting started guide](https://docs.lukso.tech/learn/dapp-developer/getting-started).
+2. Check the [dApp Developer Getting Started Guide](https://docs.lukso.tech/learn/dapp-developer/getting-started).
 3. Fork the [LUKSO Next.js dApp Boilerplate](https://github.com/lukso-network/tools-dapp-boilerplate) and start building.
 4. Check the [LUKSO Playground](https://github.com/lukso-network/lukso-playground) repository.
 5. Get familiar with the [LUKSO tools](https://docs.lukso.tech/tools/getting-started), especially [erc725.js](https://docs.lukso.tech/tools/erc725js/getting-started).
 
-**🎁 We also provide a few super handy [API endpoints and keys](./API.md) for hackathons pariticipants.**
+**🎁 We also provide a few super handy [API endpoints and keys](./API.md) for hackathon participants.**
 
 Good luck and happy hacking 🧙
 
