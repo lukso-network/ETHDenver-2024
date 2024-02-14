@@ -9,7 +9,7 @@ This bounty seeks to reward the best project tackling Transaction Relay Services
 - 🥇 1st Place 6,000 USDC
 - 🥈 2nd Place 4,000 USDC
 - 🥉 3rd Place 1,500 USDC
-- 🎖️ 4th place 1,000 USDC
+- 🏅 4th place 1,000 USDC
 
 ## Getting started
 

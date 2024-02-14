@@ -29,3 +29,9 @@ Say hi 👋 when you see them around and ask your questions directly to one of o
 - Jean Cavallera, Lead Smart Contract Engineer, @JeanCavallera
 - Dominik Zborowski, Senior Frontend Developer, @dmonix3k5
 - Bianca Buzea, Head of Developer Relations, @buzea200
+
+## ✏️ Talks & Workshops
+
+- LUKSO’s Co-Founder & Chief Blockchain Architect, Fabian Vogelsteller, will give a presentation **“From Idea to Reality: Transforming User Experience in Web3”**, on the 1st of March, 3:10pm
+
+- LUKSO’s Lead Smart Contract Engineer, Jean Cavallera, will run a Solidity workshop, **“Building the Next Generation of Tokens & NFTs on LUKSO”**, on the 26th Feb, 2024 1:45pm. The workshop will go over building your own token or NFT collection for your application or community.
