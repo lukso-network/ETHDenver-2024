@@ -3,6 +3,8 @@
 Hello hackers and welcome to ETHDenver 2024 [#BUIDLathon](https://www.ethdenver.com/buidlathon) ([registration page](https://ethdenver2024.devfolio.co/)) LUKSO bounties page! 🛠️💻🛠️
 
 <h3 align="center">
+    <a href="https://universalprofile.cloud/">Try Universal Profiles</a><br/>
+    <br/>
     <a href="https://docs.lukso.tech/">👉 LUKSO Technical Docs 👈</a>
 </h3>
 
