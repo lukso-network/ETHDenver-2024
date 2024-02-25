@@ -36,7 +36,7 @@ Good luck and happy hacking 🧙
 
 ## Ecosystem examples
 
-- [Defolio](https://app.buidlbox.io/projects/defolio) - Universal Profile management tool
+- [Defolio](https://test.de-folio.com/portfolio) - Universal Profile management tool
 - [ERC725 Inspector](https://erc725-inspect.lukso.tech/inspector) - a tool for retrieving and decoding all [ERC725Y Data Keys](https://docs.lukso.tech/standards/universal-profile/lsp3-profile-metadata/#erc725y-data-keys) of a smart contract using the [LSP2 - ERC725Y JSON Schema](https://docs.lukso.tech/standards/generic-standards/lsp2-json-schema/) specification.
 - [LUKSO Wallet](https://wallet.universalprofile.cloud/) ([Nuxt.js codebase](https://github.com/lukso-network/wallet.universalprofile.cloud)) - a wallet application that allows users to see the Tokens (LSP7) and NFTs (LSP8) associated to a specific LUKSO's Universal Profile address
 
