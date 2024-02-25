@@ -35,6 +35,7 @@ Good luck and happy hacking 🧙
 - [Common Ground](https://www.commonground.cg/) - a Web3 Discord alternative
 - [Universalprofile.cloud](https://universalprofile.cloud/) - the go-to place for discovering Universal Profiles on LUKSO
 - [LUKSO Wallet](https://wallet.universalprofile.cloud/) ([Nuxt.js codebase](https://github.com/lukso-network/wallet.universalprofile.cloud)) - a wallet application that allows users to see the Tokens (LSP7) and NFTs (LSP8) associated to a specific LUKSO's Universal Profile address
+- [Defolio](https://test.de-folio.com/portfolio)
 
 ## Resources
 
